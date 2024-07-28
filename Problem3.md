@@ -16,18 +16,18 @@ sum of its divisors. We need to implement this solution in Python, Java, and C++
 
 ### Steps:
 
-1. Generate Triangular Numbers:
-  • The triangular number for n is calculated using the formula T, = 1(2+2).
-2. Find Divisors:
-  • For each triangular number, find all its divisors.
-3. Sum of Squares of Divisors:
-  • Calculate the sum of the squares of the divisors.
-4. Square of Sum of Divisors:
-  • Calculate the square of the sum of the divisors.
-5. Find the Difference:
-  • Calculate the difference between the square of the sum and the sum of the squares of the
+1. **Generate Triangular Numbers:**
+    - The triangular number for n is calculated using the formula T, = 1(2+2).
+2. **Find Divisors:**
+    - For each triangular number, find all its divisors.
+3. **Sum of Squares of Divisors:**
+    - Calculate the sum of the squares of the divisors.
+4. **Square of Sum of Divisors:**
+    - Calculate the square of the sum of the divisors.
+5. **Find the Difference:**
+    - Calculate the difference between the square of the sum and the sum of the squares of the
    divisors.
-  • Track the maximum difference and the corresponding triangular number.
+    - Track the maximum difference and the corresponding triangular number.
 ### Pseudocode:
 
 ```text
