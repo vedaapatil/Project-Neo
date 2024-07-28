@@ -10,7 +10,7 @@ between the sum of the squares of its divisors and the square of the sum of its 
 
 ### Tags
 
-```Triangular Numbers``` ```Divisors``` ```Number Theory``` ```Sum of Squares``` ```Mathematical Difference```
+```Data Structures```  ```Number Theory``` ```Arithmetic Operations``` 
 
 
 ### Explanation
