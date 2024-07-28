@@ -1,4 +1,4 @@
-## For the first 100 triangular numbers, find the one that has the largest difference between the sum of the squares of its divisors and the square of the sum of its divisors. Calculate the difference for each triangular number and determine which one has the largest difference.
+## Operations on Triangular Numbers
 
 ### Problem Statement
 
