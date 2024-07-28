@@ -4,6 +4,12 @@
 
 To solve this problem, we need to first generate all prime numbers less than ten thousand and store them in an array. Then, starting from the 4th index of the prime array, we sum the subsequent prime numbers until the sum is just less than one thousand. We need to implement this solution in Python, Java, and C++.
 
+### Solution
+
+```
+946
+```
+
 ### Steps:
 
 1. **Generate Prime Numbers Less than 10,000:**
@@ -39,7 +45,7 @@ WHILE sum_primes + primes[index] < 1000:
     sum_primes = sum_primes + primes[index]
     index = index + 1
 
-PRINT "Sum of primes starting from 4th index:", sum_primes
+RETURN sum_primes
 ```
 
 ### Solution
@@ -64,7 +70,7 @@ while sum_primes + primes[index] < 1000:
     sum_primes += primes[index]
     index += 1
 
-print("Sum of primes starting from 4th index:", sum_primes)
+print(sum_primes)
 ```
 #### Java Implementation
 ``` java
@@ -89,7 +95,7 @@ public class PrimeSum {
             index++;
         }
         
-        System.out.println("Sum of primes starting from 4th index: " + sumPrimes);
+        System.out.println(sumPrimes);
     }
 
     public static boolean isPrime(int n) {
@@ -133,7 +139,7 @@ int main() {
         index++;
     }
 
-    std::cout << "Sum of primes starting from 4th index: " << sumPrimes << std::endl;
+    std::cout << sumPrimes << std::endl;
 
     return 0;
 }
