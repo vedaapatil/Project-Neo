@@ -16,7 +16,7 @@ between the sum of the squares of its divisors and the square of the sum of its 
 ### Explanation
 To solve this problem, we need to find the triangular number among the first 100 triangular numbers
 that has the largest difference between the sum of the squares of its divisors and the square of the
-sum of its divisors. We need to implement this solution in Python, Java, and C++.
+sum of its divisors. 
 
 
 
