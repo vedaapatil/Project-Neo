@@ -1,8 +1,16 @@
 # Summing Primes with an Upper Bound Constraint
 
+### Problem Statement
+
+Consider all prime numbers less than 10,000 and store them in an array. What is the sum of the prime numbers starting from the 4th index that results in a total less than one thousand
+
+### Tags
+
+```arrays``` ```primes``` ```Sieve of Eratosthenes```
+
 ### Explanation
 
-To solve this problem, we need to first generate all prime numbers less than ten thousand and store them in an array. Then, starting from the 4th index of the prime array, we sum the subsequent prime numbers until the sum is just less than one thousand. We need to implement this solution in Python, Java, and C++.
+To solve this problem, we need to first generate all prime numbers less than ten thousand and store them in an array. Then, starting from the 4th index of the prime array, we sum the subsequent prime numbers until the sum is just less than one thousand.
 
 ### Solution
 
