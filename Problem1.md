@@ -1,4 +1,4 @@
-# Summing Primes from a Specific Index with Upper Bound Constraint
+# Summing Primes with an Upper Bound Constraint
 
 ### Explanation
 
