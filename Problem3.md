@@ -1,4 +1,4 @@
-## Operations on Triangular Numbers
+# Operations on Triangular Numbers
 
 ### Problem Statement
 
