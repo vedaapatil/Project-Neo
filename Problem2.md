@@ -1,5 +1,13 @@
 # Summing Palindromic Primes Less than 100,000
 
+### Problem Statement
+
+Find the sum of all palindromic prime numbers less than 100,000.
+
+### Tags
+
+```palindromes``` ```primes``` ```Primality Test Function``` ```Big Integers```
+
 ### Explanation
 
 To solve this problem, we need to find all palindromic primes less than 100,000. A palindromic prime is a number that is both prime and reads the same forwards and backwards. Once we have identified these palindromic primes, we will sum them up to get the final result.
