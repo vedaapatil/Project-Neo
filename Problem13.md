@@ -28,16 +28,16 @@ primes.
 ### Pseudocode
 
 ```text
-1. **Find the largest prime below one million as a sum of consecutive primes:**
-  - Generate a list of primes below one million.
-  - Iterate over possible starting primes and compute sums of consecutive primes.
-  - Track the longest sum that is prime.
-2. **Find the longest sequence of three 4-digit primes that are permutations:**
-  - Generate a list of 4-digit primes.
-  - Check all combinations of three primes to see if they are permutations of each other.
-  - Track the sequence with the longest concatenated result.
-3. **Compute the final result:**
-  - Add the 12-digit concatenated number from step 2 to the prime found in step 1.
+1. Find the largest prime below one million as a sum of consecutive primes:
+  • Generate a list of primes below one million.
+  • Iterate over possible starting primes and compute sums of consecutive primes.
+  • Track the longest sum that is prime.
+2. Find the longest sequence of three 4-digit primes that are permutations:
+  • Generate a list of 4-digit primes.
+  • Check all combinations of three primes to see if they are permutations of each other.
+  • Track the sequence with the longest concatenated result.
+3. Compute the final result:
+  • Add the 12-digit concatenated number from step 2 to the prime found in step 1.
 ```
 
 ### Implementation
