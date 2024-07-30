@@ -1,4 +1,4 @@
-#Alphabetical Value Sum for Number Words
+# Alphabetical Value Sum for Number Words
 
 ### Problem Statement
 
@@ -6,9 +6,9 @@ If the number 43 is written as "forty-three," and the sum of the letters' positi
 alphabet (where A=1, B=2, etc.) is 99, what is the sum of the positions of the letters in the English
 representation of 10000?
 
-###Tags
+### Tags
 
-'''Text Processing'''  '''String Manipulation''' '''Alphabetical Value Calculation'''  '''Number to Words Conversion'''
+``` Text Processing ```  ``` String Manipulation ``` ```Alphabetical Value Calculation```  ```Number to Words Conversion```
 
 ### Explanation
 
@@ -17,9 +17,9 @@ To solve this problem, follow these steps:
 2. Calculate the sum of the positions of each letter in the English alphabet (where A=1, B=2, ...,
 Z=26) for the word representation of 10000.
 
-###Solution
+### Solution
 
- '''141'''
+ ``` 141 ```
 
  ### Pseudocode
 ```text
@@ -37,8 +37,9 @@ FUNCTION main():
     word = convert_number_to_words(number)
     result = calculate_alphabetical_sum(word)
     PRINT result
+```
 
-'''
+
 
 
 ### Implementation
