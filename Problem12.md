@@ -13,15 +13,15 @@ of the cubes of their digits.
 
 ### Explanation
 
-1. Series Sum Calculation:
-    • For each n from 1 to 1000, calculate the sum of cubes of the digits for all integers from 1 to
+1. **Series Sum Calculation:**
+    - For each n from 1 to 1000, calculate the sum of cubes of the digits for all integers from 1 to
       n.
-    • Accumulate these sums to get a total sum.
-    • Compute the last ten digits of this total sum.
-2. Sum of Special Numbers:
-    • Identify numbers less than 1,000,000 that can be expressed as the sum of the cubes of their
+    - Accumulate these sums to get a total sum.
+    - Compute the last ten digits of this total sum.
+2. **Sum of Special Numbers:**
+    - Identify numbers less than 1,000,000 that can be expressed as the sum of the cubes of their
       digits.
-    • Sum these special numbers.
+    - Sum these special numbers.
 ### Solution
 ```
 235613701
